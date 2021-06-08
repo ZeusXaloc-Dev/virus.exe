@@ -1,2 +1,5 @@
 # VirusSys
-Usuários desta ferramenta Deve Saber        Que Não Nos Resposabilizamos pelo       Mal Uso Desta Ferramenta.              Sugiro que ele seja executado        (caso você consiga compilá) em uma       máquina virtual. Caso você insista em executá-lo       em sua máquina, saiba que poderá perder a instalação       do Windows e tornar sua máquina inoperante.                     Code by: Zeus Xaloc Dev       Agradecimento: prof. Flavio
+## Virus que Infecta Arquivos Executáveis.
+agradecimentos ao Prof Flavio!
+
+![InfectSyz]()
