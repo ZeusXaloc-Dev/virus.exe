@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<dir.h>
-#include<dos.h>
+#include <stdio.h>
+#include <dir.h>
+#include <dos.h>
 
 void main(int argc,char *argv[])
   {
